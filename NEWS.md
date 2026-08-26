@@ -1,3 +1,8 @@
+# EBASS 0.1.2
+
+* The package maintainer has changed to USMR (`astreinte.usmr@chu-bordeaux.fr`).
+* The GitHub repository has moved to https://github.com/BiostatUSMR/EBASS.
+
 # EBASS 0.1.1
 - Corrected misspelled words in `DESCRIPTION`
 - **Title**: The length of the title in `DESCRIPTION` has been reduced to less than 65 characters to comply with CRAN requirements.

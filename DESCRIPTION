@@ -1,17 +1,23 @@
 Package: EBASS
 Type: Package
 Title: Expected Value of Information Based Sample Size Calculation
-Version: 0.1.1
-Authors@R: c(person("Audrey", "Cordon", role=c("aut", "cre"), email="audrey.cordon@chu-bordeaux.fr"),
-  person("Clement", "Bader", role="ctb"),
-  person("Morgane", "Donadel", role="ctb"),
-  person("Aline", "Maillard", role="ctb"),
-  person("Sebastien", "Cossin", role="ctb"),
-  person("Mohamedou", "Sow", role="ctb"),
-  person("Antoine", "Benard", role="ctb"))
-Maintainer: Audrey Cordon <audrey.cordon@chu-bordeaux.fr>
-URL: https://github.com/aud33/EBASS
-BugReports: https://github.com/aud33/EBASS/issues
+Version: 0.1.2
+Authors@R:
+  c(
+    person(given = "USMR",
+           family = "CHU de Bordeaux",
+           role = c("aut", "cre"),
+           email = "astreinte.usmr@chu-bordeaux.fr"),
+    person("Audrey", "Cordon", role=c("aut")),
+    person("Clement", "Bader", role="ctb"),
+    person("Morgane", "Donadel", role="ctb"),
+    person("Aline", "Maillard", role="ctb"),
+    person("Sebastien", "Cossin", role="ctb"),
+    person("Mohamedou", "Sow", role="ctb"),
+    person("Antoine", "Benard", role="ctb")
+  )
+URL: https://github.com/BiostatUSMR/EBASS
+BugReports: https://github.com/BiostatUSMR/EBASS/issues
 Description: Computes sample sizes for trial-based cost-effectiveness analyses using the expected value of information. The implementation follows the method described by Bader et al. (2018) <doi:10.1186/s12874-018-0571-1>.
 License: GPL (>= 3) 
 Encoding: UTF-8
