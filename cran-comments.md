@@ -1,6 +1,6 @@
 ## Maintainer change
 
-This submission transfers maintainership of the package from Audrey Cordon to USMR (Audrey Cordon works at USMR). The new maintainer is USMR, with email astreinte.usmr@chu-bordeaux.fr. The current maintainer is aware of and agrees with the transfer.
+This submission changes the maintainer email address from audrey.cordon@chu-bordeaux.fr to astreinte.usmr@chu-bordeaux.fr. The new address is the team’s package maintenance address and will ensure that members of the team can take over package maintenance if needed. Audrey Cordon remains the primary package maintainer.
 
 ## R CMD check results
 
